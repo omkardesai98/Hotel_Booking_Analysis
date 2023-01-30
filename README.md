@@ -47,6 +47,9 @@
 
 ## 4. Exploratory Data Analysis (EDA) 
 ## Screenshots
+![average adr](https://user-images.githubusercontent.com/106911079/215523662-14741efc-9da7-4317-89af-812c2d47ed64.png)
+![1](https://user-images.githubusercontent.com/106911079/215523678-427dc2ff-175e-490a-a074-a285e3dab5f3.png)
+![df](https://user-images.githubusercontent.com/106911079/215524221-08894eb2-50f7-4111-8cf5-ad03a9b9a22a.png)
 
 
 
